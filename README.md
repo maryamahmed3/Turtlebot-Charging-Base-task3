@@ -4,4 +4,15 @@ $ export TURTLEBOT3_MODEL=burger
 
 $ roslaunch turtlebot3_gazebo turtlebot3_world.launch
 
+![244D6C8E-E2FE-4D37-8088-E9B8995950B8_1_105_c](https://user-images.githubusercontent.com/86611989/127705382-77a8b557-cb20-4e33-b302-622d0ea8f538.jpeg)
 
+
+
+
+Run Navigation Node in another terminal :
+
+
+ $ export TURTLEBOT3_MODEL=burger 
+ 
+ 
+ $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch
