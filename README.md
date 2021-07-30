@@ -22,3 +22,9 @@ Run Navigation Node in another terminal :
 
 
 ![338F467C-200D-421A-8780-2BF42B6CFA88_1_105_c](https://user-images.githubusercontent.com/86611989/127706208-d97dfe35-b2ab-4913-9271-813602671183.jpeg)
+
+
+for controlling panel , open another terminal then run :
+
+
+$ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
